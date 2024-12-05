@@ -95,7 +95,7 @@ class GetINterested extends React.Component {
         })}
        
         <Button variant="warning" onClick={() => this.openModal()}>
-          Update my interested Genres
+          Update my interest Genres Games
         </Button>
         <ShowUpdate
           showUp={this.state.showUp}
